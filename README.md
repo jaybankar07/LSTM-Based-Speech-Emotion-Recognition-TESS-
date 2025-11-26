@@ -83,6 +83,6 @@ cd tess-lstm-speech-emotion-recognition
 
 ## 👨‍💻 Author
 
-Jay Bankar
-(Deep Learning / AI Enthusiast)
+Jay Bankar <br>
+Deep Learning / AI Enthusiast
 
